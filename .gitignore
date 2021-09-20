@@ -3,6 +3,9 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
+others/fourier_neural_operator/data
+others/fourier_neural_operator/model
+venv
 
 # Other files and folders
 .settings/
